@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Car {
+
+        int yearModel;
+        String make;
+        int speed;
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2988
+status: Unchecked
+feedback:
+  message: "Failed to connect to server, check the Internet connection \n\nConnection\
+    \ reset"
+  time: Tue, 06 Oct 2020 13:52:31 UTC
+record: -1
